@@ -1,0 +1,60 @@
+.root-pane {
+    -fx-background-color: #f4f6f8;
+}
+
+.title-label {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #0a6b5e;
+}
+
+.subtitle-label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #555555;
+}
+
+.error-label {
+    -fx-text-fill: #c0392b;
+    -fx-font-size: 13px;
+}
+
+.info-label {
+    -fx-text-fill: #0a6b5e;
+    -fx-font-size: 13px;
+}
+
+.primary-button {
+    -fx-background-color: #0a6b5e;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 8 24 8 24;
+    -fx-background-radius: 6;
+    -fx-cursor: hand;
+}
+
+.menu-button {
+    -fx-background-color: #0a6b5e;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 10 0 10 0;
+    -fx-background-radius: 6;
+    -fx-cursor: hand;
+}
+
+.secondary-button {
+    -fx-background-color: #95a5a6;
+    -fx-text-fill: white;
+    -fx-font-size: 13px;
+    -fx-padding: 6 18 6 18;
+    -fx-background-radius: 6;
+    -fx-cursor: hand;
+}
+
+.primary-button:hover,
+.menu-button:hover {
+    -fx-background-color: #08574c;
+}
+
+.secondary-button:hover {
+    -fx-background-color: #7f8c8d;
+}

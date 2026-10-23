@@ -1,0 +1,11 @@
+com\uqu\sgm\models\Grade.class
+com\uqu\sgm\controllers\ViewStudentsController.class
+com\uqu\sgm\controllers\AddStudentController.class
+com\uqu\sgm\controllers\DashboardController.class
+com\uqu\sgm\controllers\AddGradesController.class
+com\uqu\sgm\utils\Navigator.class
+com\uqu\sgm\controllers\LoginController.class
+com\uqu\sgm\models\Student.class
+com\uqu\sgm\controllers\ViewReportsController.class
+com\uqu\sgm\utils\FileManager.class
+com\uqu\sgm\Main.class
